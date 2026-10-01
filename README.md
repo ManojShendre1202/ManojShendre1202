@@ -1,18 +1,19 @@
 # Manoj Shendre
 
-Computer Vision Engineer. I build systems that make machines read engineering drawings —
-the kind of work that used to take 10-15 engineers a couple of weeks. Now takes 2 hours.
+**AI/ML Engineer | Computer Vision | Generative AI | Agentic AI**
 
-Shipped AI/CV systems for railways, shipbuilding, aerospace, automotive, and defense clients.
-Built the workflow engine that powers several of them from scratch. One engine, several clients, zero Celery. 🙂
+I build intelligent systems that turn complex real-world problems into working AI products.
 
-Started as an Aeronautical Engineering student. Ended up making Machines see things.
-Turns out knowing how engineering drawings are made helps when you're building systems to read them. ✈️
+My work spans **Computer Vision, document intelligence, Generative AI, RAG, Agentic AI, and intelligent automation**. I have built production AI systems for **railways, shipbuilding, aerospace, automotive, and defense**, including systems that analyze engineering drawings and automate workflows that previously required significant manual effort.
 
-Also independently studied the human visual system, derived a color perception model, and submitted it to Nature.
-Got peer review. Got a DOI. Wrong journal apparently. The equation still works. 🧠
+I enjoy working across domains and connecting ideas from **machine learning, mathematics, engineering, neuroscience, and computer vision** to solve problems in unconventional ways.
 
-Currently building a portfolio that has an AI you can ask about my work.
-Because a static page felt too easy.
+I started as an **Aeronautical Engineering** student and ended up teaching machines to understand engineering drawings. ✈️
 
-📫 manojshendre.1202@gmail.com
+I have also independently researched the **human visual system**, developed a computational model of color perception, and explored biologically inspired **Spiking Neural Networks**.
+
+Currently, I'm exploring the intersection of **AI agents, brain-inspired computing, multimodal intelligence, and real-world AI systems**.
+
+📫 **[manojshendre.1202@gmail.com](mailto:manojshendre.1202@gmail.com)**
+
+> Building machines that don't just process data — they understand the problem.
